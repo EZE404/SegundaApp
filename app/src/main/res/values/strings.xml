@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SegundaApp</string>
+    <string name="am3_TVFinal_text">Final</string>
+    <string name="am2_ETSalida_text">TextView</string>
+    <string name="am2_BTSiguiente2_text">Siguiente</string>
+    <string name="am_textView_text">Bienvenidos</string>
+    <string name="am_ETEntrada_text">Name</string>
+    <string name="am_BTSiguiente1_text">Siguiente</string>
+</resources>
