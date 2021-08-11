@@ -20,7 +20,7 @@ public class MainActivity2 extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         inicializarVista();
     }
-
+    // TIRANDO VERDURA
     private void inicializarVista() {
         ETS = findViewById(R.id.ETSalida);
         BTS2 = findViewById(R.id.BTSiguiente2);
